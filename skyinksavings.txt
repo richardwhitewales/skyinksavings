@@ -1,0 +1,5 @@
+CUSTOM EMAIL: info@skyinksavings.com
+CUSTOM EMAIL PASSWORD: SkyinksavingsAdmin23
+
+Admin EMAIL: info@skyinksavings.com
+Admin PASSWORD: SkyinksavingsAdmin23

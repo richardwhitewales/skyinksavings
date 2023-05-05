@@ -1,0 +1,57 @@
+.hero {
+    height: 100vh;
+    background-color: #200752;
+    background-image: url("/hero_bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.hero>h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+.hero_img {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+@media (min-width: 768px) {
+    .hero_img {
+        width: 80% !important;
+    }
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.reason {
+    float: left;
+    background: url('/reason.png');
+    text-align: center;
+    width: 100vw;
+    position: relative;
+    z-index: 9;
+    background-attachment: fixed;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.reason:before {
+    bottom: 0;
+    content: "";
+    left: 0;
+    opacity: 0.8;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+    background: #161A1E;
+}
