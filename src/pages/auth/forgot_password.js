@@ -30,11 +30,11 @@ export default function ForgotPasswordPage() {
     const lBSchema = getLBSchema(
         pageName,
         {
-            streetAddress: "",
-            addressLocality: "",
-            addressRegion: "",
-            postalCode: "",
-            addressCountry: ""
+            streetAddress: "Gabalfa Avenue, Cardiff CF14 2SH, UK",
+            addressLocality: "Gabalfa Avenue",
+            addressRegion: "Cardiff",
+            postalCode: "CF14",
+            addressCountry: "UK"
         },
         "+00-000-000-0000",
         "info@skyinksavings.com",
@@ -44,8 +44,8 @@ export default function ForgotPasswordPage() {
         "NGN, USD, EURO",
         "Mo-Fr 09:00-17:00",
         {
-            latitude: "",
-            longitude: ""
+            latitude: "51.481581",
+            longitude: "-3.17909"
         }
     );
 
