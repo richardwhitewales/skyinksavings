@@ -20,7 +20,7 @@ export default function Contact() {
                             <div className="d-flex mt-5 my-3">
                                 <span><FontAwesomeIcon icon={faLocation} className="mx-2 align-vertical-middle" /></span>
                                 <Link href="#" target="_blank" className="text-decoration-none primary" >
-                                    
+                                    Gabalfa Avenue, Cardiff CF14 2SH, UK
                                 </Link>
                             </div>
                             <div className="d-flex my-3">
@@ -59,7 +59,7 @@ export default function Contact() {
             </div>
 
             <div className="w-100 mt-5">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d18852.760215227012!2d-1.553294!3d53.79669500000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795ea0c622933d%3A0x9707bb53e6b78c0b!2s76%20Wellington%20St%2C%20Leeds%20LS1%204DL%2C%20UK!5e0!3m2!1sen!2sus!4v1678111300378!5m2!1sen!2sus" width="100%" height="400" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d79475.19226983136!2d-3.2874502448557323!3d51.50221188372996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e02d434ec53f5%3A0x143406db6586670e!2sCardiff%2C%20UK!5e0!3m2!1sen!2sbr!4v1687420647590!5m2!1sen!2sbr" width="100%" height="400" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </>
     )

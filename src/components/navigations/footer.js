@@ -44,7 +44,7 @@ export default function Footer() {
 
                             <ul className="mt-3 list-unstyled">
                                 <li>
-                                    <FontAwesomeIcon icon={faLocation} />
+                                    <FontAwesomeIcon icon={faLocation} /> Gabalfa Avenue, Cardiff CF14 2SH, UK
                                 </li>
                                 <li>
                                     <FontAwesomeIcon icon={faEnvelope} /> info@skyinksavings.com
