@@ -38,7 +38,7 @@ export default function DepositPage() {
             postalCode: "CF14",
             addressCountry: "UK"
         },
-        "+00-000-000-0000",
+        "+44 741 837 1908",
         "info@skyinksavings.com",
         baseURL,
         `${baseURL}/favicon.png`,

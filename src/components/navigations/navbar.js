@@ -78,8 +78,8 @@ export default function Navbar() {
                     <div className="d-flex">
                         {dashboard()}
 
-                        <Link className="btn btn-sm btn_secondary mx-1" href="tel:+000000000000">
-                            <Call /> +00 (000) 000 0000
+                        <Link className="btn btn-sm btn_secondary mx-1" href="tel:+447418371908">
+                            <Call /> +44 (741) 837 1908
                         </Link>
                     </div>
                 </div>

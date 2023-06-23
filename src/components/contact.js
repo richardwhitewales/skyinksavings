@@ -31,8 +31,8 @@ export default function Contact() {
                             </div>
                             <div className="d-flex my-3">
                                 <span><FontAwesomeIcon icon={faPhone} className="mx-2 align-vertical-middle" /></span>
-                                <Link href="tel:+000000000000" target="_blank" className="text-decoration-none primary" >
-                                    +00-000-000-0000
+                                <Link href="tel:+447418371908" target="_blank" className="text-decoration-none primary" >
+                                    +44 741 837 1908
                                 </Link>
                             </div>
                         </div>
